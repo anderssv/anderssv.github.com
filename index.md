@@ -1,46 +1,24 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: It's a fine day for some nerding
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+This is my personal site. If you are looking for [my blog you can go here](http://blog.f12.no).
 
-## Update Author Attributes
+# Profile
+[http://about.me/anderssv](http://about.me/anderssv)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+# Other
+[linkedin](http://no.linkedin.com/in/anderssv) - [company](http://miles.no) 
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+# Content
+I try to share the passion I have for delivering software through writing and talking. Follow the links for some of the stuff I have done. 
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+[blog](http://blog.f12.no) - [twitter](http://twitter.com/anderssv) - [slideshare](http://www.slideshare.net/anderssv) - [presentations](talks.html) - [photo](http://photo.f12.no)
 
-    $ rm -rf _posts/core-samples
+# Contact
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+[anders@f12.no](anders@f12.no)
