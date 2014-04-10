@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+# Software 2014
+* Kontinuerlig leveranse i Skatteetaten?
+	* [Part One](http://www.slideshare.net/ilmyggo/kontinuerlig-leveransei-skatteetatenpart1)
+	* [Part Two](http://www.slideshare.net/ilmyggo/kontinuerlig-leveransei-skatteetatenpart2)
+
+# JavaZone 2013
+* [Java + PaaS + Drift = Sant](https://vimeo.com/album/1807533/video/74444252)
+
 # JavaZone 2012
 * [Et rammeverk til besv&aelig;r?](https://vimeo.com/album/1807533/video/49477309)
 
@@ -24,6 +32,5 @@ group: navigation
 * So you think you can change?
 
 #JavaZone 2009
-* [Rules engines vs. domain logic](http://tcs.java.no/tcs/?id=8E55C6BE-7CB5-4BEA-AB67-30B5FF6D4585)
-* [Smidig Utrulling](http://tcs.java.no/tcs/?id=2E72A3F8-CD11-4C5C-A29A-63EB3E95149F)
-
+* [Rules engines vs. domain logic](https://vimeo.com/album/1807533/video/35220226)
+* [Smidig Utrulling](https://vimeo.com/album/1807533/video/35219624)
