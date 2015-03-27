@@ -6,8 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+# JavaZone 2014
+* [Kontinuerlig leveranse i Skatteetaten?](https://vimeo.com/105777592) (w/ Trond Arve Wasskog and Janniche Haugen)
+
 # Software 2014
-* Kontinuerlig leveranse i Skatteetaten?
+* Kontinuerlig leveranse i Skatteetaten? (w/ Trond Arve Wasskog)
 	* [Part One](http://www.slideshare.net/ilmyggo/kontinuerlig-leveransei-skatteetatenpart1)
 	* [Part Two](http://www.slideshare.net/ilmyggo/kontinuerlig-leveransei-skatteetatenpart2)
 
