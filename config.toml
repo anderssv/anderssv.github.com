@@ -1,5 +1,0 @@
-baseURL = "http://anders.f12.no/"
-languageCode = "en-us"
-title = "Anders Sveen"
-theme = "uilite"
-publishDir = "docs"

@@ -1,9 +1,0 @@
-{
-	"title" : "Skills",
-	"skills" : {
-		"Back End Development (Kotlin, Java, Python)" : "95",
-		"Front End Development (React, ES6)" : "75",
-		"DevOps (PaaS, Kubernetes, Docker)" : "85",
-		"Cloud Computing (Heroku, Amazon, Google Cloud)": "80"
-	}
-}
