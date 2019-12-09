@@ -1,4 +1,4 @@
 baseURL = "http://sveen.dev/"
 languageCode = "en-us"
 title = "Anders Sveen"
-theme = "ananke"
+theme = "uilite"
